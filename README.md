@@ -1,6 +1,9 @@
 # wordpress_tips-tricks
 WORDPRESS STUDY
 ---
+# Multi-language Support
+1. https://wordpress.org/plugins/weglot/
+2. 
 
 # Refs
 1. https://themegrill.com/blog/free-wordpress-themes/
