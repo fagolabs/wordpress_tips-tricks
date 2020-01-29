@@ -3,7 +3,10 @@ WORDPRESS STUDY
 ---
 # Multi-language Support
 1. https://wordpress.org/plugins/weglot/
-2. 
+2.
+
+# Top 10 Wordpress Theme
+1. 
 
 # Refs
 1. https://themegrill.com/blog/free-wordpress-themes/
