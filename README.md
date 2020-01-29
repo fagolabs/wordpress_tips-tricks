@@ -8,6 +8,9 @@ WORDPRESS STUDY
 # Top 10 Wordpress Theme
 1. 
 
+# Security Best practices
+1. https://themegrill.com/blog/best-wordpress-security-plugins/
+
 # Refs
 1. https://themegrill.com/blog/free-wordpress-themes/
 2. https://beautifulthemes.com/blog/wordpress-business-website-with-zakra-theme/
