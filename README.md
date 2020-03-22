@@ -8,6 +8,9 @@ WORDPRESS STUDY
 # Top 10 Wordpress Theme
 1. 
 
+# Top Wordpress Plugins
+1. https://wpbuildermaster.com/must-have-wordpress-plugins/
+
 # Security Best practices
 1. https://themegrill.com/blog/best-wordpress-security-plugins/
 
