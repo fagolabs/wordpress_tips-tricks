@@ -10,9 +10,10 @@ WORDPRESS STUDY
 
 # Top Wordpress Plugins
 1. https://wpbuildermaster.com/must-have-wordpress-plugins/
+2. https://themegrill.com/blog/best-wordpress-security-plugins/
 
-# Security Best practices
-1. https://themegrill.com/blog/best-wordpress-security-plugins/
+# Security Best practices & Turning Guides
+1. https://wpbuildermaster.com/how-to-optimize-website-speed/
 
 # Refs
 1. https://themegrill.com/blog/free-wordpress-themes/
